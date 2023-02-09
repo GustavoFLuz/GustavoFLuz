@@ -33,7 +33,24 @@
 <img align="right" style="width:350px" src='https://github-readme-stats.vercel.app/api?username=gustavofluz&theme=dark&hide_border=true&include_all_commits=true&count_private=false'/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gustavoluz_02/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-luz-182888200/) 
+
+<p>
+  <a  href="https://linkedin.com/in/gustavofluz">
+    <img  alt="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a  href="[https://instagram.com/lr_killovsky](https://www.instagram.com/gustavoluz_02/)">
+    <img  alt="Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a  href="https://wa.me/5535997522207">
+    <img  alt="WhatsApp"  src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a  href="https://t.me/gustavofluz">
+    <img  alt="Telegram"  src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a  href="mailto:gu.luz400@gmail.com">
+    <img  alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
 
 [![](https://visitcount.itsvg.in/api?id=GustavoFLuz&icon=5&color=1)](https://visitcount.itsvg.in)
