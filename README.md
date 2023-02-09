@@ -34,7 +34,7 @@
 
 ## 🌐 Socials:
 
-<p>
+<p style="display:flex;">
   <a  href="https://linkedin.com/in/gustavofluz">
     <img  alt="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
