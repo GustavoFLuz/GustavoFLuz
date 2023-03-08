@@ -10,8 +10,9 @@
 ```
 
 
+<img align="right" style="width:350px" src='https://github-readme-stats.vercel.app/api?username=gustavofluz&theme=dark&hide_border=true&include_all_commits=true&count_private=false'/>
 
-<img align="right" style="width:350px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofluz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact'/>
+
 
 
 # 💻 Tech Stack:
@@ -29,8 +30,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<img align="right" style="width:350px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofluz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact'/>
 
-<img align="right" style="width:350px" src='https://github-readme-stats.vercel.app/api?username=gustavofluz&theme=dark&hide_border=true&include_all_commits=true&count_private=false'/>
 
 ## 🌐 Socials:
 
