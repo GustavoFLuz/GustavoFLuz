@@ -9,11 +9,7 @@
   }
 ```
 
-
-<img align="right" style="width:350px" src='https://github-readme-stats.vercel.app/api?username=gustavofluz&theme=dark&hide_border=true&include_all_commits=true&count_private=false'/>
-
-
-
+<img align="right" style="width:350px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofluz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact'/>
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,7 +22,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<img align="right" style="width:350px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofluz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact'/>
 
 
 ## 🌐 Socials:
